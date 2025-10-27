@@ -1,0 +1,11 @@
+product_id;title;category;subcategory;keywords
+1;Zapatillas Running X;deporte;ropa deportiva;deporte,running,zapatillas,fitness
+2;Polera Dri-Fit;deporte;ropa deportiva;deporte,ropa deportiva,gym
+3;Balón de Fútbol P;deporte;accesorios deportivos;deporte,futbol,balon
+4;Robot Aspirador 2000;hogar;electrodomesticos;hogar,aseo,robot
+5;Cafetera Espresso Mini;hogar;electrodomesticos;hogar,cocina,cafe
+6;Smartwatch S2;tecnologia;gadgets;tecnologia,gadgets,wearable,fitness
+7;Audífonos BT Lit;tecnologia;gadgets;tecnologia,audio,bluetooth
+8;Lámpara LED Dec;hogar;decoracion;hogar,iluminacion,decoracion
+9;Mochila Deportiva;deporte;accesorios deportivos;deporte,mochila,gym
+10;Mouse Gamer G1;tecnologia;computacion;tecnologia,pc,perifericos,gamer
